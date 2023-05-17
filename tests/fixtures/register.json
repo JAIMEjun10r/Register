@@ -1,0 +1,17 @@
+{
+    "fullName": {
+        "firstName": "Klayton",
+        "lastName": "Alvez"
+    },
+    "addressEmailPhone": {
+        "address": "rua calixto",
+        "email": "klayton@bol.com",
+        "phone": "27722222"
+    },
+    "dateOfBirth": {
+        "ano": "1990",
+        "mes": "March",
+        "dia": "10"
+    }
+
+}
